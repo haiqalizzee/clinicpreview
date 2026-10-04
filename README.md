@@ -1,5 +1,7 @@
 # Klinik Dr Sophia Y
 
+Clinic website preview for the `clinicpreview` repository.
+
 Premium, responsive landing page built with Next.js App Router, TypeScript, Tailwind CSS and GSAP.
 
 ## Run locally
