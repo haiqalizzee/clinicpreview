@@ -3,6 +3,7 @@ export const clinic = {
   phone: "+60 17-324 2801",
   whatsapp: "https://wa.me/60173242801",
   socials: {
+    tiktok: "https://www.tiktok.com/@klinikdrsophia.y",
     instagram: "https://www.instagram.com/klinik.dr.sophia.y/",
     facebook: "https://www.facebook.com/KlinikDrSophiaY",
   },

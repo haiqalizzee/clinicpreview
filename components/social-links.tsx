@@ -39,6 +39,16 @@ export function SocialLinks() {
         </svg>
       </a>
       <a
+        href={clinic.socials.tiktok}
+        aria-label="TikTok"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M16.7 2h-3.4v13.4a3 3 0 1 1-2.6-3V9a6.4 6.4 0 1 0 6 6.4V8.6a8.3 8.3 0 0 0 4.9 1.6V6.8A5 5 0 0 1 16.7 2Z" />
+        </svg>
+      </a>
+      <a
         href={clinic.whatsapp}
         aria-label="WhatsApp"
         target="_blank"
